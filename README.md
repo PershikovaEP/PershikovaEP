@@ -1,25 +1,37 @@
 ### Привет!
 Я Елена Першикова, тестировщик программного обеспечения. 
 ### Мои навыки: 
-* Ручное тестирование веб и мобильных приложений
+* Ручное тестирование веб и мобильных приложений:
+  
+    [Курсовая работа по ручному тестированию(примеры чек-листа, тест-кейсов, баг-репортов, работа в консоли разработчика, изменение вертски)](https://docs.google.com/spreadsheets/d/1X5hNRfi8-nF1DYdGtCiyY4d9pvh2rN2f6fqXnTLQ2VY/edit#gid=0).  
+    [Пример плана тестирования, баг-репортов(в issue), отчетов о тестировании](https://github.com/PershikovaEP/TravelShop/tree/main/docs).  
+    [Пример чек-листа, тест-кейсов, баг-репортов(в issue), отчета о тестировании](https://github.com/PershikovaEP/DiplomQAMobileTesting/tree/development/docs)
  
-   [Курсовая работа по ручному тестированию(примеры чек-листа, тест-кейсов, баг-репортов, работа в консоли разработчика, изменение вертски](https://docs.google.com/spreadsheets/d/1X5hNRfi8-nF1DYdGtCiyY4d9pvh2rN2f6fqXnTLQ2VY/edit#gid=0)
-  
-   [Пример плана тестирования, баг-репортов(в issue), отчетов о тестировании](https://github.com/PershikovaEP/TravelShop/tree/main/docs)
-  
-   [Пример чек-листа, тест-кейсов, баг-репортов(в issue), отчета о тестировании](https://github.com/PershikovaEP/DiplomQAMobileTesting/tree/development/docs)
+ * Командная работа в gitHub: [Тестирование приложения для трекинга игровой активности](https://github.com/PershikovaEP/javaqa-team-diplom)
+   
+ * Автоматизированное тестирование веб-приложений на Java:
+   
+   [Курсовой проект по автоматизации тестирования формы покупка тура](https://github.com/PershikovaEP/TravelShop)
+   
+    [Домашние работы по автоматизации тестирования на Java](https://github.com/PershikovaEP/homework-automation-java)
+     
+  * Автоматизированное тестирование веб-приложений на JS
 
- * Автоматизированное тестирование веб-приложений на Java
+    [Домашние работы по автоматизации тестирования на JS](https://github.com/PershikovaEP/homework-automation-JS)    
    
-    [Курсовой проект по автоматизации тестирования формы покупка тура](https://github.com/PershikovaEP/TravelShop)
-   
-    Домашние работы по автоматизации тестирования на Java:
-     [Selenium](https://github.com/PershikovaEP/webSelenium)
-     [Selenide](https://github.com/PershikovaEP/Selenide-Patterns)
-     [Selenide-Page Object](https://github.com/PershikovaEP/PageObject)
-     [docker-image](https://github.com/PershikovaEP/docker-image)
-     [docker-posrgres](https://github.com/PershikovaEP/docker-postgres)
+
+  * Ручное и автоматизированное тестирование мобильных приложений:
     
+    [Дипломный проект по тестированию мобильного приложения на ОС Android](https://github.com/PershikovaEP/DiplomQAMobileTesting)
+
+    [Домашние работы по ручному тестированию мобильных приложений](https://github.com/PershikovaEP/homework-mobile/tree/main)
+    
+       
+
+
+### Сертификаты нетологии
+  
+
 <!--
 **PershikovaEP/PershikovaEP** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
