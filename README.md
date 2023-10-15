@@ -32,6 +32,7 @@
    
        
 ### Сертификаты нетологии
+
   [Репозиторий с сертификатами](https://github.com/PershikovaEP/certificatesNetology)
 
 <!--
